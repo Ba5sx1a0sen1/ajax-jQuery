@@ -1,4 +1,4 @@
-# nodejs-test
+# ajax-jQuery
 
 ## 后台启动应用
 
@@ -16,4 +16,3 @@
 ## 实现功能
 
 1. 获取json文件的json数据，并动态写入html文档中
-2. 分为server.js与server-cors.js两份服务文件，在server-cors.js文件中添加了一个响应请求头`Access-Control-Allow-Origin:localhost:8888`，用于模拟本地的`cors`
